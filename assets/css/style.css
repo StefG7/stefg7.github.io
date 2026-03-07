@@ -268,10 +268,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #45505b;
+  color: #2e3944;
 }
 #hero p {
-  color: #45505b;
+  color: #2e3944;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Geologica", sans-serif;
@@ -328,7 +328,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #45505b;
+  color: #2e3944;
 }
 .section-title h2::before {
   content: "";
@@ -359,8 +359,8 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 700;
-  font-size: 2rem;
-  color: #728394;
+  font-size: 2.2rem;
+  color: #455462;
 }
 .about .content ul {
   list-style: none;
@@ -375,13 +375,13 @@ section {
   margin-right: 10px;
 }
 .about .content ul i {
-  font-size: 1.2rem;
+  font-size: 2rem;
   margin-right: 5px;
   color: #0563bb;
   line-height: 0;
 }
 .about .content p {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 .about .content p:last-child {
   margin-bottom: 0;
